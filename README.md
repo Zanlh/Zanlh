@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zan
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning React JS and Flutter
+- 🌱 I’m currently learning React JS and Laravel
 - 💞️ I’m looking to collaborate on Raal World projects
 - 📫 How to reach me ... zanlwine.htoo110@gmail.com
 
